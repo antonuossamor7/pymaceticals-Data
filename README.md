@@ -1,4 +1,4 @@
-# pymaceticals-Data# Matplotlib Homework - The Power of Plots
+# pymaceticals-Data# Matplotlib  - The Power of Plots
 
 ## Background
 
